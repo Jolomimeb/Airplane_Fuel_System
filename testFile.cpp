@@ -1,15 +1,3 @@
-/*****************************************
- ** File:    mytest.cpp
- ** Project: CMSC 341 Project 1, Spring 2023
- ** Author:  Oritsejolomisan Mebaghanje
- ** Date:    03/07/23
- ** E-mail:  xz94254@umbc.edu
- **
- ** This file contains the program for mytest.cpp.
- **
- **
- ***********************************************/
-
 #include "fuel.h"
 using namespace std;
 
