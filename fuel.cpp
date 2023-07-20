@@ -1,16 +1,3 @@
-/*****************************************
- ** File:    fuel.cpp
- ** Project: CMSC 341 Project 1, Spring 2023
- ** Author:  Oritsejolomisan Mebaghanje
- ** Date:    03/07/23
- ** E-mail:  xz94254@umbc.edu
- **
- ** This file contains the program for fuel.cpp.
- **
- **
- ***********************************************/
-
-
 #include "fuel.h"
 
 FuelSys::FuelSys() {
